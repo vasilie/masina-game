@@ -5,6 +5,11 @@ using UnityEngine;
 public class GameMenager : MonoBehaviour {
 
 	public GameObject fuelGauge;
+	public GameObject masina;
+	public GameObject greg;
+	private Animator masinaAnimator;
+	private Animator gregAnimator;
+
 	private string spriteNames = "img/masina-fuel-gauge";
 	private SpriteRenderer fuelSpriteRenderer;
 	private int spriteVersion = 0;
@@ -17,22 +22,33 @@ public class GameMenager : MonoBehaviour {
 	void Start () {
 		fuelSpriteRenderer = fuelGauge.GetComponent<SpriteRenderer>();
 		fuelSprites = Resources.LoadAll<Sprite>(spriteNames);
+		masinaAnimator = masina.GetComponent<Animator>();
+		gregAnimator = greg.GetComponent<Animator>();
 		Debug.Log (fuelSprites.Length);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown ("space")  && fuel > 0f) {
+		if (Input.GetKeyDown ("space")  && fuel > 0f && masinaRuning == false) {
 			masinaRuning = true;
+			masinaAnimator.SetBool ("masina-start", true);
+			gregAnimator.SetBool ("masina-starta", true);
 		}
 		if (masinaRuning == true) {
-			fuel-= 0.05f;
+			fuel-= 0.1f;
+
+			masinaAnimator.SetFloat("fuel", fuel);
 			if (fuel < 1.0f) {
 				masinaRuning = false;
+
+				masinaAnimator.SetBool ("masina-start", false);
+
+
 			}
 			//Debug.Log (fuel);
 			//Debug.Log (spriteVersion);
 			if (fuel >= 13 * (100 / 13)) {
+				
 				spriteVersion = 0;
 				Debug.Log ("menjaj");
 			} else if (fuel > 12 * (100 / 13)) {

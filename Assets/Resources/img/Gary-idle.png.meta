@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: fdd68ef1d681145baa63bd01a59fa155
-timeCreated: 1526381996
+timeCreated: 1526466944
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -123,12 +123,12 @@ TextureImporter:
       name: Gary-idle_0
       rect:
         serializedVersion: 2
-        x: 90
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 0
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -137,12 +137,12 @@ TextureImporter:
       name: Gary-idle_1
       rect:
         serializedVersion: 2
-        x: 390
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 300
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,12 +151,12 @@ TextureImporter:
       name: Gary-idle_2
       rect:
         serializedVersion: 2
-        x: 690
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 600
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: Gary-idle_3
       rect:
         serializedVersion: 2
-        x: 990
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 900
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -179,12 +179,12 @@ TextureImporter:
       name: Gary-idle_4
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 1200
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -193,12 +193,12 @@ TextureImporter:
       name: Gary-idle_5
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 1500
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: Gary-idle_6
       rect:
         serializedVersion: 2
-        x: 1890
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 1800
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -221,12 +221,12 @@ TextureImporter:
       name: Gary-idle_7
       rect:
         serializedVersion: 2
-        x: 2190
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 2100
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: Gary-idle_8
       rect:
         serializedVersion: 2
-        x: 2490
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 2400
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: Gary-idle_9
       rect:
         serializedVersion: 2
-        x: 2790
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 2700
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -263,12 +263,12 @@ TextureImporter:
       name: Gary-idle_10
       rect:
         serializedVersion: 2
-        x: 3090
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 3000
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: Gary-idle_11
       rect:
         serializedVersion: 2
-        x: 3390
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 3300
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: Gary-idle_12
       rect:
         serializedVersion: 2
-        x: 3690
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 3600
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: Gary-idle_13
       rect:
         serializedVersion: 2
-        x: 3990
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 3900
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: Gary-idle_14
       rect:
         serializedVersion: 2
-        x: 4290
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 4200
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: Gary-idle_15
       rect:
         serializedVersion: 2
-        x: 4590
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 4500
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -347,12 +347,12 @@ TextureImporter:
       name: Gary-idle_16
       rect:
         serializedVersion: 2
-        x: 4890
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 4800
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: Gary-idle_17
       rect:
         serializedVersion: 2
-        x: 5190
-        y: 60
-        width: 140
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 5100
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: Gary-idle_18
       rect:
         serializedVersion: 2
-        x: 5490
-        y: 60
-        width: 140
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 5400
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -389,12 +389,12 @@ TextureImporter:
       name: Gary-idle_19
       rect:
         serializedVersion: 2
-        x: 5790
-        y: 60
-        width: 140
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 5700
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: Gary-idle_20
       rect:
         serializedVersion: 2
-        x: 6090
-        y: 60
-        width: 140
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 6000
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: Gary-idle_21
       rect:
         serializedVersion: 2
-        x: 6390
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 6300
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -431,12 +431,12 @@ TextureImporter:
       name: Gary-idle_22
       rect:
         serializedVersion: 2
-        x: 6690
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 6600
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: Gary-idle_23
       rect:
         serializedVersion: 2
-        x: 6990
-        y: 60
-        width: 120
-        height: 290
-      alignment: 4
-      pivot: {x: 0, y: 0.5}
+        x: 6900
+        y: 0
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
